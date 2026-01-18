@@ -1,0 +1,92 @@
+SHANTHOSH K - PERSONAL PORTFOLIO
+================================
+
+Overview
+--------
+A modern, responsive personal portfolio website showcasing professional experience, skills, 
+and projects. Built with HTML5, CSS3, and vanilla JavaScript.
+
+Contact Information
+-------------------
+Name: Shanthosh K
+Title: Web Developer
+Email: tn46santos@gmail.com
+Phone: +91 904 214 5744
+Location: India
+Birthday: [Birthday Month]
+
+Portfolio Sections
+------------------
+
+1. ABOUT ME
+   - Professional summary and background
+   - 8+ years of experience in technical support and development
+   - Expertise in cloud technologies, Linux, automation, and IoT
+
+2. RESUME
+   - Professional work experience
+   - Educational background
+   - Technical certifications and skills
+   - ITIL certified
+
+3. PORTFOLIO
+   - Showcase of completed web design projects
+   - Web development projects
+   - IoT solutions and implementations
+   - Photography works
+
+4. BLOG
+   - Technical articles and insights
+   - Industry updates and trends
+   - Development tips and tutorials
+
+5. CONTACT
+   - Contact form for inquiries
+   - Email and phone contact options
+   - Social media links
+
+Services Offered
+----------------
+✓ Web Design - Modern, professional, high-quality design
+✓ Web Development - Full-stack development services
+✓ IoT Solutions - Internet of Things implementations
+✓ Photography - Professional photography services
+
+Technical Stack
+---------------
+- HTML5 - Semantic markup
+- CSS3 - Responsive styling with custom properties
+- JavaScript - Vanilla JS for interactivity
+- Font: Poppins (Google Fonts)
+- Icons: Ion Icons
+
+Features
+--------
+✓ Responsive design - Works on all devices
+✓ Navigation bar with section switching
+✓ Testimonials section with modal display
+✓ Portfolio filtering by category
+✓ Contact form with validation
+✓ Smooth scrolling and transitions
+✓ Mobile-friendly sidebar navigation
+
+File Structure
+--------------
+/
+├── index.html           - Main portfolio page
+├── README.md            - Project documentation
+├── LICENSE              - License file
+├── assets/
+│   ├── css/
+│   │   └── style.css    - Custom styling
+│   ├── js/
+│   │   └── script.js    - JavaScript functionality
+│   └── images/          - Image assets
+└── website-demo-image/  - Demo screenshots
+
+Recent Updates
+--------------
+- Fixed navbar click functionality (variable shadowing issue)
+- Normalized data-page attributes to lowercase
+- Enhanced navigation link handling
+- Improved mobile sidebar interaction
